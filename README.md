@@ -1,7 +1,7 @@
 # Mbox to CSV Converter with PyQt5 GUI
 
 A Python-based tool to efficiently convert `.mbox` email files into `.csv` format. This project includes a modern GUI built with PyQt5, optimized for performance with multi-threading and progress tracking.
-### You can download the Software from the Releases Panel.
+#### You can download the Software from the [Releases](https://github.com/Quantlight/Mbox-to-csv-gui/releases/tag/Latest) Panel. No Installation of the Python is needed.
 
 ## Features
 
